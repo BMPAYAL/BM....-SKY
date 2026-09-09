@@ -1,0 +1,5 @@
+{
+  "source": "https://raw.githubusercontent.com/0xMe/ItemID2/main/assets/itemData.json",
+  "note": "The website loads the large public Free Fire item database at runtime. This local file is only a fallback configuration/seed and is intentionally not a fake 10K ID generator.",
+  "allowedCategories": ["emote","animation","skin","weapon","outfit","head","mark","stop","bundle","paint"]
+}
